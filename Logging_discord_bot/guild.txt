@@ -1,0 +1,2 @@
+0
+Note : Remove the 0 above and put the guild id
